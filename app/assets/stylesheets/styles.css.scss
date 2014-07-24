@@ -1,0 +1,73 @@
+body{
+	padding: 60px;
+
+.collapse.navbar-collapse.navbar-ex1-collapse{
+	padding-left: 60px;
+	padding-right: 60px;
+}
+
+.navbar-header > a{
+	padding-left: 60px;
+}
+
+.container{
+	padding: 60px;
+}
+
+.btn.btn-primary.btn-lg{
+	background-color: #39952e
+}
+
+.footer{
+	margin-top: 50px;
+	color: #e0e0e0
+	
+	a{
+		color: #313131
+	}
+}
+
+}
+
+.center {
+    text-align: center;
+
+}
+
+ // masonry
+
+ .box{
+ 	margin: 5px;
+ 	padding: 5px;
+ 	font-size: 11px;
+ 	line-height: 1.4em;
+ 	float: left;
+ 	
+	-webkit-margin-bottom: 5px;
+	-moz-margin-bottom: 5px;
+	-ms-margin-bottom: 5px;
+	-o-margin-bottom: 5px;
+	margin-bottom: 5px;
+	box-shadow: 1px 1px 10px #444;
+	width: 214px;
+ }
+
+.box img{
+	display: block;
+	width: 100%;
+	-webkit-margin-bottom: 5px;
+	-moz-margin-bottom: 5px;
+	-ms-margin-bottom: 5px;
+	-o-margin-bottom: 5px;
+	margin-bottom: 5px;
+
+}
+
+
+.description{
+	margin: 10px 0 5px;
+	
+}
+
+
+

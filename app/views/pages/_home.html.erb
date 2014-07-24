@@ -1,0 +1,12 @@
+<% unless user_signed_in? %>
+
+<div class="jumbotron">
+	<div class="container">
+		<h1>Pinterest Clone</h1>
+		<p>Contents ...</p>
+		<p>
+			<%= link_to "Sign Up", new_user_registration_path, class: "btn btn-primary btn-lg" %>
+		</p>
+	</div>
+</div>
+<% end %>
